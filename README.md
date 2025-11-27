@@ -2,4 +2,4 @@
 - 👀 I’m interested in Web Development, Software Development
 - 🌱 I’m currently learning Java, C++, Azure.
 - 😎 Experienced with HTML, CSS, Bootstrap, Figma, Java, C++, AWS, Azure.
-- 📫 How to reach me sauravpreet143@gmail.com.com
+- 📫 How to reach me sauravpreet143@gmail.com
