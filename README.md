@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SideWays143
-- 👀 I’m interested in Web Development, Software Development
-- 🌱 I’m currently learning Java, C++, Azure.
-- 😎 Experienced with HTML, CSS, Bootstrap, Figma, Java, C++, AWS, Azure.
+- 👀 I’m interested in Web Development, Software Development, & Cloud Computing
+- 🌱 I’m currently learning Java, C++, Azure, AWS
+- 😎 Experienced with HTML, CSS, Javascript (jQuery), Bootstrap, Figma, Java, C++, AWS, Azure.
 - 📫 How to reach me sauravpreet143@gmail.com
